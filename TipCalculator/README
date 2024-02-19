@@ -1,0 +1,41 @@
+    1 A simple JavaFX program, made for quick practice
+    2 It contains a sample menu full of items you can add to your order.                                         
+    3 From the users selection, and the user's selected tip, the program will then assume the tax and calculate: 
+    4 - Subtotal                                                                                                 
+    5 - Tip                                                                                                      
+    6 - Tax                                                                                                      
+    7 - Total                                                                                                    
+~
+~
+~                                                                                                                
+~                                                                                                                
+~                                                                                                                
+~                                                                                                                
+~                                                                                                                
+~                                                                                                                
+~                                                                                                                
+~                                                                                                                
+~                                                                                                                
+~                                                                                                                
+~                                                                                            
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+ INSERT  master  README [+]                                                     utf-8 | unix | text  Top    1:49 
+-- INSERT --                                                                                           
